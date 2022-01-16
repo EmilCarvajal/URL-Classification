@@ -1,0 +1,4 @@
+Per executar totes les comandes correctament es necessita instalar alguns mòduls:
+
+pip install wordninja
+pip install tabulate
